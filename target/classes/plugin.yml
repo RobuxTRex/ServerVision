@@ -1,0 +1,6 @@
+name: ServerVision
+main: co.uk.robuxtrex.servervision.App
+version: 1.0
+api-version: 1.19
+author: RobuxTRex
+softdepend: ['Multiverse-Core']
